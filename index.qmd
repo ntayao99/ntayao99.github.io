@@ -1,5 +1,17 @@
 ---
 title: "Nico Tayao"
+image: media/Nico.jpg
+about:
+  template: trestles
+  image-width: 5cm
+  image-shape: round
+  links:
+    - icon: LinkedIn
+      href: https://www.linkedin.com/in/nico-tayao-24a8b42a7/
+    - icon: github
+      href: https://github.com/ntayao99
+    - icon: Photography
+      href: https://www.instagram.com/gabriel_caffrey/
 ---
 
 Welcome to the website!
@@ -9,3 +21,4 @@ Hello! I am a Political Science major with a passion for comparative politics fr
 I am also a Professional Photographer specializing in events and landscapes, Registered Drone Pilot, and I am also very comfortable with Adobe applications such as Lightroom, Photoshop, and even more advanced Color Grading software such as DaVinci Resolve.
 
 Feel free to have a look at my CV.
+You can also check out my <a href="/CV/NicoTayao_CV.pdf" target="_blank">CV</a>.
