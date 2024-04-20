@@ -1,10 +1,6 @@
 ---
 title: "CV"
-format: html
-editor: visual
 ---
-
-Feel free to browse through my CV here!
 
 <ul>
   You can also check out my <a href="/CV/NicoTayao_CV.pdf" target="_blank">CV</a>

@@ -1,7 +1,5 @@
 ---
 title: "Portfolio"
-format: html
-editor: visual
 ---
 Here are a few examples of some projects I undertook in the past.
 
