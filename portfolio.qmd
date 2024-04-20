@@ -9,7 +9,7 @@ editor: visual
 Here are a few examples of some projects I undertook in the past.
 
 <ul>
-  <li><a href="/portfolio/SchweizerGletscher-Presentation.html" target="_blank">Wild Fires Memo</a></li>
+  <li><a href="/portfolio/SchweizerGletscher-Presentation.html" target="_blank">Swiss Glaciers Presentation</a></li>
   </li>
   
 
