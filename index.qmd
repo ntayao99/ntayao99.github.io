@@ -1,16 +1,16 @@
 ---
 title: "Nico Tayao"
-image: media/Nico.jpg
+image: media/Nico.jpeg
 about:
   template: trestles
   image-width: 5cm
   image-shape: round
   links:
-    - icon: LinkedIn
+    - icon: linkedin
       href: https://www.linkedin.com/in/nico-tayao-24a8b42a7/
     - icon: github
       href: https://github.com/ntayao99
-    - icon: Photography
+    - icon: instagram
       href: https://www.instagram.com/gabriel_caffrey/
 ---
 

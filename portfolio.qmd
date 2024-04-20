@@ -3,9 +3,6 @@ title: "Portfolio"
 format: html
 editor: visual
 ---
-
-## Portfolio 
-
 Here are a few examples of some projects I undertook in the past.
 
 <ul>
