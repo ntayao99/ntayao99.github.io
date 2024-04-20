@@ -6,7 +6,7 @@ Here are a few examples of some projects I undertook in the past.
 <ul>
   <li><a href="/portfolio/schweizergletschern.html" target="_blank">Glacial Calculations</a></li>
   <li><a href="/portfolio/SchweizerGletscher_Presentation.html" target="_blank">Swiss Glacier Presentation</a></li>
-  </li>
+  </li>  
   
 
 
