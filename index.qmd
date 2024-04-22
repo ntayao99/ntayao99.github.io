@@ -12,6 +12,8 @@ about:
       href: https://github.com/ntayao99
     - icon: instagram
       href: https://www.instagram.com/gabriel_caffrey/
+    - icon: envelope-fill
+      href: mailto:onefive400@gmail.com
 ---
 
 Welcome to the website!  
