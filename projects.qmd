@@ -5,7 +5,7 @@ title: "Projects"
 # Peace and Secrecy Research Study 
 
 <ul>
-  <li><a href="/https://www.eui.eu/research-hub?id=inclusivity-and-secrecy-governing-information-flows-when-negotiating-peace-in-complex-conflict-contexts-1" target="_blank">Peace and Secrecy Project</a></li>
+  <li><a href="https://globalgovernanceprogramme.eui.eu/inclusivity-and-secrecy-governing-information-flows-when-negotiating-peace-in-complex-conflict-contexts/" target="_blank">Link to the Study</a></li>
   </li>  
 
 
