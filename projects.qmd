@@ -2,9 +2,11 @@
 title: "Projects"
 ---
 
-Here you can find projects I have been involved in
+# Peace and Secrecy Research Study 
 
-
+<ul>
+  <li><a href="/https://www.eui.eu/research-hub?id=inclusivity-and-secrecy-governing-information-flows-when-negotiating-peace-in-complex-conflict-contexts-1" target="_blank">Peace and Secrecy Project</a></li>
+  </li>  
 
 
 
