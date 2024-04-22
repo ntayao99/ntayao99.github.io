@@ -3,7 +3,7 @@ title: "Nico Tayao"
 image: media/Nico.jpeg
 about:
   template: trestles
-  image-width: 5cm
+  image-width: 7cm
   image-shape: round
   links:
     - icon: linkedin
