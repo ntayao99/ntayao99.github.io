@@ -1,7 +1,8 @@
 ---
 title: "Portfolio"
 ---
-Here are a few examples of some projects I undertook in the past.
+
+# Here are a few examples of some projects I undertook in the past
 
 <ul>
   <li><a href="/portfolio/Slides_GlacierPresentation.html" target="_blank">Swiss Glacier Slides</a></li>
