@@ -2,8 +2,6 @@
 title: "CV"
 ---
 
-# You can view/download my CV here
-
 <ul>
   You can also check out my <a href="/CV/NicoTayao_CV.pdf" target="_blank">CV</a>
   </li>
