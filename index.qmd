@@ -23,3 +23,5 @@ Welcome! I am a Political Science major with a passion for comparative politics 
 I am also a Professional Photographer specializing in events and landscapes, registered drone pilot, and I am also very comfortable with Adobe applications such as Lightroom, Photoshop, and even more advanced Color Grading platforms such as DaVinci Resolve.
 
 You can also check out my <a href="/CV/NicoTayao_CV.pdf" target="_blank">CV</a>.
+
+You can also check out my <a href="/CV/DiplomaBA.pdf" target="_blank">Diploma</a>.
