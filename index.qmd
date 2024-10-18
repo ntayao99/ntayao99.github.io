@@ -10,8 +10,6 @@ about:
       href: https://www.linkedin.com/in/nico-tayao-24a8b42a7/
     - icon: github
       href: https://github.com/ntayao99
-    - icon: instagram
-      href: https://www.instagram.com/gabriel_caffrey/
     - icon: envelope-fill
       href: mailto:onefive400@gmail.com
 ---
